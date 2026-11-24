@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include green_hydrogen_telematics *.css
+recursive-include green_hydrogen_telematics *.csv
+recursive-include green_hydrogen_telematics *.html
+recursive-include green_hydrogen_telematics *.ico
+recursive-include green_hydrogen_telematics *.js
+recursive-include green_hydrogen_telematics *.json
+recursive-include green_hydrogen_telematics *.md
+recursive-include green_hydrogen_telematics *.png
+recursive-include green_hydrogen_telematics *.py
+recursive-include green_hydrogen_telematics *.svg
+recursive-include green_hydrogen_telematics *.txt
+recursive-exclude green_hydrogen_telematics *.pyc

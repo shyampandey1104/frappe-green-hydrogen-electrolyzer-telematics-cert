@@ -1,0 +1,9 @@
+[
+ {
+  "dt": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+  "fieldname": "custom_audit_verified",
+  "fieldtype": "Check",
+  "insert_after": "status",
+  "label": "Audit Verified"
+ }
+]
