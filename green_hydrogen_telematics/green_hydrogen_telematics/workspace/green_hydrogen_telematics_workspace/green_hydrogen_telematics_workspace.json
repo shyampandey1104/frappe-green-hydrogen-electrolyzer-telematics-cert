@@ -1,0 +1,104 @@
+{
+ "charts": [
+  {
+   "chart_name": "Frappe Green Hydrogen Electrolyzer Telematics Cert Volume Trend",
+   "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert Volume Trend"
+  }
+ ],
+ "content": "[{\"type\": \"header\", \"data\": {\"text\": \"Frappe Green Hydrogen Electrolyzer Telematics Cert Workspace\", \"level\": 4}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Frappe Green Hydrogen Electrolyzer Telematics Cert Operations\"}}, {\"type\": \"card\", \"data\": {\"card_name\": \"Audit & Compliance\"}}]",
+ "creation": "2026-04-01 10:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "octicon octicon-package",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert",
+ "links": [
+  {
+   "label": "Operational Documents",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+   "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "label": "Audit & Reports",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Green Hydrogen Electrolyzer Telematics Cert Audit Log",
+   "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert Audit Log",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Audit Log",
+   "link_type": "DocType",
+   "type": "Link"
+  },
+  {
+   "is_query_report": 1,
+   "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert Summary",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Summary",
+   "link_type": "Report",
+   "type": "Link"
+  },
+  {
+   "label": "Configuration",
+   "type": "Card Break"
+  },
+  {
+   "doctype": "Frappe Green Hydrogen Electrolyzer Telematics Cert Settings",
+   "label": "Frappe Green Hydrogen Electrolyzer Telematics Cert Settings",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Settings",
+   "link_type": "DocType",
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-04-01 10:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Green_Hydrogen_Telematics",
+ "name": "Frappe Green Hydrogen Electrolyzer Telematics Cert",
+ "owner": "Administrator",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+   "label": "Recent Frappe Green Hydrogen Electrolyzer Telematics Cert Entries"
+  }
+ ],
+ "roles": [
+  {
+   "role": "System Manager"
+  },
+  {
+   "role": "Accounts User"
+  }
+ ],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "All Frappe Green Hydrogen Electrolyzer Telematics Cert Entrys",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Entry",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "label": "System Settings",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Settings",
+   "type": "DocType"
+  },
+  {
+   "color": "Blue",
+   "label": "Compliance Digest",
+   "link_to": "Frappe Green Hydrogen Electrolyzer Telematics Cert Summary",
+   "type": "Report"
+  }
+ ],
+ "title": "Frappe Green Hydrogen Electrolyzer Telematics Cert"
+}
